@@ -1,0 +1,8 @@
+{
+  "function": "x_over_x_cubed_plus_8",
+  "a": -1.0,
+  "b": 1.0,
+  "h1": 0.5,
+  "h2": 0.25,
+  "output_precision": 10
+}

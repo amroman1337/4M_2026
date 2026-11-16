@@ -1,0 +1,9 @@
+{
+  "function": "sin_plus_x",
+  "x_star": 1.0,
+  "output_precision": 10,
+  "cases": [
+    {"name": "а", "nodes_pi_fractions": [[0, 1], [1, 6], [2, 6], [3, 6]], "plot_file": "interpolation_a.png"},
+    {"name": "б", "nodes_pi_fractions": [[0, 1], [1, 6], [1, 4], [1, 2]], "plot_file": "interpolation_b.png"}
+  ]
+}
